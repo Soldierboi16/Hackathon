@@ -1,2 +1,4 @@
-# Hackathon
-Hackathon
+# NaijaHacks_North
+
+
+Good Agricultural practices
